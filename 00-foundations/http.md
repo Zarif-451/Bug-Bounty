@@ -1397,3 +1397,9 @@ understanding the vulnerabilities in the rest of the book.
     otherwise independent HTTP requests.
 -   Understanding HTTP requests and responses is one of the most
     important foundations for web bug hunting.
+
+---
+
+## Source
+
+*Real-World Bug Hunting: A Field Guide to Web Hacking* — Chapter 1, **Bug Bounty Basics**, "What Happens When You Visit a Website — Step 4: Sending an HTTP Request," "Step 5: Server Response," "Step 6: Rendering the Response," "HTTP Requests," "Request Methods," and "HTTP Is Stateless."
